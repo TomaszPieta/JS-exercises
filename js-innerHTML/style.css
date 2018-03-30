@@ -1,0 +1,10 @@
+#wrapper{min-height: 99vh;
+    margin: 0 auto;
+    font-size: 80px;
+    text-align: center;
+    background-color: green;}
+  button{height:50px;
+  width: 150px;
+  background-color: yellow;
+  color: red;
+  font-size: 30px}
