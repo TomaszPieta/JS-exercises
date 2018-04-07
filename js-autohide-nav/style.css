@@ -1,0 +1,10 @@
+body{
+  height: 5000px;}
+nav{
+  position: fixed;
+  top: 0;  left: 0;
+  background-color: black;
+  width: 100%;  height: 10%;
+  transition: top 200ms ease-in-out;}
+.upper{
+  top: -10%}
