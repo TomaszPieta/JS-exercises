@@ -1,6 +1,7 @@
 # JS-exercises
 
 live on Codepen:
++ <a href="https://codepen.io/TomaszPieta/pen/pLVOoP" target=_blank>js-progress-bar</a>
 + <a href="https://codepen.io/TomaszPieta/pen/eMrjQR" target=_blank>js-autohide-nav</a>
 + <a href="#">js-innerHTML</a>
 + <a href="#">js-net-gross</a>
