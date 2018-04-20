@@ -1,0 +1,28 @@
+body{
+  background: green;}
+@mixin icon{
+  font-size: 12px;
+  width: 20px;
+  float: right;
+  border: 1px solid black;}
+a:link,a:hover,a:active,a:visited{
+  text-decoration: none;
+  color: black;
+  &[href$=".doc"]::after{
+    @include icon();
+    content: url("https://tinyurl.com/ybsexxbn")"doc";}
+  &[href$=".pdf"]::after{
+    @include icon();
+    content: url("https://tinyurl.com/y88g9ng7")"pdf";}}
+p{
+  display: inline-block;
+  font-size: 30px;
+  font-weight: 900;
+  border: 2px solid black;
+  margin: 10px; padding: 10px;
+  background-color: white;
+  &.pres{background: yellow;}
+  &.pren{background: red;}
+  &.prez{background: blue;}
+  &.pref{background: grey;}
+}
