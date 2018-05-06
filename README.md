@@ -2,6 +2,7 @@
 
 live on Codepen:
 
++ <a href="https://codepen.io/TomaszPieta/pen/rJmWxG" target=_blank>js-edit-real</a>
 + <a href="https://codepen.io/TomaszPieta/pen/BYJeQw" target=_blank>js-query-selector</a>
 + <a href="https://codepen.io/TomaszPieta/pen/oEPVKN" target=_blank>js-event-delegation</a>
 + <a href="https://codepen.io/TomaszPieta/pen/pLVOoP" target=_blank>js-progress-bar</a>
