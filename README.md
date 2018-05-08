@@ -2,6 +2,7 @@
 
 live on Codepen:
 
++ <a href="https://codepen.io/TomaszPieta/pen/mXWaMG" target=_blank>js-classlist-add</a>
 + <a href="https://codepen.io/TomaszPieta/pen/eVWggb" target=_blank>js-slide-text</a>
 + <a href="https://codepen.io/TomaszPieta/pen/rJmWxG" target=_blank>js-edit-real</a>
 + <a href="https://codepen.io/TomaszPieta/pen/BYJeQw" target=_blank>js-query-selector</a>
