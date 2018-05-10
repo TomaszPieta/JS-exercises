@@ -1,0 +1,1 @@
+You have to create a function that takes a positive integer number and returns the biggest number formed by the same digits. If no bigger number can be composed using those digits, return -1.
