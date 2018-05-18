@@ -1,0 +1,22 @@
+body{
+  margin: 0 auto;
+  padding: 0;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: yellow;
+  height: 50vh;  
+}
+input{
+  text-align: center;
+}
+input:focus{
+  color: white;
+  background-color: black;
+}
+input:hover{
+  background-color: red;
+  color: yellow;
+}
