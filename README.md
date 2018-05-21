@@ -2,6 +2,7 @@
 
 live on Codepen:
 
++ <a href="https://codepen.io/TomaszPieta/pen/Zomdez" target=_blank>js-local-storage-counter</a>
 + <a href="https://codepen.io/TomaszPieta/pen/vjQwxN" target=_blank>js-local-storage</a>
 + <a href="https://codepen.io/TomaszPieta/pen/aqJPWW" target=_blank>js-input-form</a>
 + <a href="https://codepen.io/TomaszPieta/pen/mXWaMG" target=_blank>js-classlist-add</a>
