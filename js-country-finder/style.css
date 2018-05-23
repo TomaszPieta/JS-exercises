@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;  
+  background-color: yellow;
+  margin: 0 auto;
+  font-family: sans-serif;
+  text-align: center;  
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 2px;
+}
+#app{  
+  width: 25vw;
+  padding: 2vw;
+}
+input{
+  background-color: silver;
+  border: 2px solid black;
+  width: 15vw;
+  padding: 0.5vw;
+  cursor: cell;
+}
+input:hover, input:focus{
+  background-color: white;
+}
+::placeholder{
+  color: black;
+}
+button{
+  background-color: skyblue;
+  border: 2px solid black;
+  width: 15vw;
+  margin: 1vw;
+  padding: 0.5vw;
+}
+button:hover{
+  cursor: pointer;
+  background-color: black;
+  border: 2px solid black;
+  color: whitesmoke;
+}
+ul,li{
+  list-style-type: none;
+  text-align: left;
+}
