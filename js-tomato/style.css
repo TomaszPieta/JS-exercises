@@ -1,0 +1,31 @@
+.form {
+  margin: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tomato {
+  border-radius: 100%;
+  width: 7rem;
+  height: 7rem;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  
+  margin: 0.1rem;
+  background: tomato;
+  transition: transform 0.15s ease-in;
+  color: white;
+  
+  font-size: 1.5rem;
+}
+
+.tomato:hover {
+  transform: skew(2deg, 2deg) scale(1.01);
+}
+
+.tomato-container {
+  margin: 0 auto;
+  width: 2.5rem
+}
