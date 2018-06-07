@@ -2,6 +2,7 @@
 
 live on Codepen:
 
++ <a href="https://codepen.io/TomaszPieta/pen/GGjdjp">js-memory-game</a>
 + <a href="https://codepen.io/TomaszPieta/pen/ELqRey">js-todo</a>
 + <a href="https://codepen.io/TomaszPieta/pen/LmwrJy">js-tomato</a>
 + <a href="https://codepen.io/TomaszPieta/pen/QroZqE">js-country-finder</a>
