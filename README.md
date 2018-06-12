@@ -2,6 +2,8 @@
 
 live on Codepen:
 
++ <a href="https://codepen.io/TomaszPieta/pen/GGjdjp">js-color-squares</a>
++ <a href="#">js-memory-games</a>
 + <a href="https://codepen.io/TomaszPieta/pen/GGjdjp">js-memory-game</a>
 + <a href="https://codepen.io/TomaszPieta/pen/ELqRey">js-todo</a>
 + <a href="https://codepen.io/TomaszPieta/pen/LmwrJy">js-tomato</a>
