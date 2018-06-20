@@ -2,6 +2,7 @@
 
 live on Codepen:
 
++ <a href="https://codepen.io/TomaszPieta/pen/oyWYxV">js-random-query</a>
 + <a href="https://codepen.io/TomaszPieta/pen/eKWRrO">js-color-squares</a>
 + <a href="#">js-memory-games</a>
 + <a href="https://codepen.io/TomaszPieta/pen/GGjdjp">js-memory-game</a>

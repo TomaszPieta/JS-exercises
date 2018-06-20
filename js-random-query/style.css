@@ -1,0 +1,28 @@
+body{
+  background-color: blue;
+  font-size: 1.2rem;  
+  font-weight: 500;
+}
+.box{
+  background-color: yellow;
+  width: 50vw;
+  height: 50vh;
+  padding: 5vw;
+  margin: auto;
+  margin-top: 15vw;
+  border: 1vw solid black;
+}
+button {
+  border: 0.75vw solid black;
+  color: white;
+  background-color: blue;
+}
+button:focus {
+  outline: none;
+}
+.quote, .bottom {
+  text-align: center;
+}
+.author{
+  text-align: right
+}
