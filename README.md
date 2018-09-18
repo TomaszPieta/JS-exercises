@@ -2,6 +2,7 @@
 
 live on Codepen:
 
++ <a href="https://codepen.io/TomaszPieta/pen/ZMmovr">js-stone-paper-scisors</a>
 + <a href="https://codepen.io/TomaszPieta/pen/bxoLJZ">js-aos-animations</a>
 + <a href="https://codepen.io/TomaszPieta/pen/YjzZRV">js-bottle-of-wine</a>
 + <a href="https://codepen.io/TomaszPieta/pen/oyWYxV">js-random-query</a>
